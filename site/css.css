@@ -1,12 +1,10 @@
 /* Style the header with a grey background and some padding */
-body {
-    background-color: rgb(65, 65, 65);
-  }
+
 
 
 .header {
   overflow: hidden;
-  background-color: rgba(80, 80, 80);
+  background-color: rgb(240, 240, 240);
   padding: 20px 10px;
 }
 
@@ -33,10 +31,9 @@ body {
 
 /* Change the background color on mouse-over */
 .header a:hover {
-
-  background-color: white;
-  color: white;
-}
+    background-color: #ddd;
+    color: black;
+  }
 
 /* Style the active/current link*/
 .header a.active {
