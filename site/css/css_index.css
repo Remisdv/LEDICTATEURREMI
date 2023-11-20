@@ -1,0 +1,45 @@
+body {
+  font-family: 'Arial', sans-serif;
+  line-height: 1.6;
+  margin: 20px;
+}
+
+h1 {
+  color: #4CAF50;
+}
+
+h2 {
+  color: #333;
+}
+
+p {
+  color: #555;
+}
+
+.main-section {
+  width: 100%;
+  text-align: center;
+}
+
+.main-content {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.flex-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.section {
+  width: 48%;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  margin-bottom: 10px;
+}
